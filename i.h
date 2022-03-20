@@ -1,5 +1,5 @@
-//整理了bits/stdc.h中的头文件以及添加了和删除了一些常用和不常用的 
-//文件名随便改越短越好比如说i.h
+//鏁寸悊浜哹its/stdc.h涓殑澶存枃浠朵互鍙婃坊鍔犱簡鍜屽垹闄や簡涓�浜涘父鐢ㄥ拰涓嶅父鐢ㄧ殑 
+//鏂囦欢鍚嶉殢渚挎敼瓒婄煭瓒婂ソ姣斿璇磇.h
 //#include"i.h"
 #include <array>
 #include <atomic>
@@ -75,5 +75,5 @@
 #include <ctime>
 #include <windows.h> 
 #include <time.h>
-#include<stdio.h> 
-#include<stdlib.h> 
+#include <stdio.h> 
+#include <stdlib.h> 
